@@ -11,7 +11,7 @@ Generador de contraseñas en python
 
 +++Como usarlo:
 
-Lo primero que debe hacer es copiar este repositorio en su PC con el siguiente comando: https://github.com/SantiagoPalacios0/passwdgen.git
+Lo primero que debe hacer es copiar este repositorio en su PC con el siguiente comando: "git clone https://github.com/SantiagoPalacios0/passwdgen.git"
 
 Luego de eso se le generara una carpeta con el nombre del repositorio, debe moverse dentro de esa carpeta y ejecutar el siguiente comando: 
 python3 ./passwdgen.py
