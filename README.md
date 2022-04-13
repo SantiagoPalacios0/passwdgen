@@ -11,7 +11,7 @@ Generador de contraseñas en python
 
 +++Como usarlo:
 
-<src>https://imgur.com/Mx1qOi9</src>
+src=https://imgur.com/Mx1qOi9
 
 Luego de eso se le generara una carpeta con el nombre del repositorio, debe moverse dentro de esa carpeta y ejecutar el siguiente comando: 
 python3 ./passwdgen.py
