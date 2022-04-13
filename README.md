@@ -10,7 +10,7 @@ Generador de contraseñas en python
 - Longitud sin limite deseada por el usuario
 
 +++Como usarlo:
-
+<img src="https://imgur.com/Mx1qOi9" alt="My cool logo"/>
 
 
 Luego de eso se le generara una carpeta con el nombre del repositorio, debe moverse dentro de esa carpeta y ejecutar el siguiente comando: 
